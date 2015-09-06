@@ -1,5 +1,8 @@
 # CHANGE LOG
 
+**August 8th 2015**
+- add Italian translation files
+
 **May 3rd 2015**
 - add German and Persian translation files
 
